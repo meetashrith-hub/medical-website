@@ -9,7 +9,7 @@ extend: {
   WellnessVista
 
   #Home Section 
-  Empowering Health Choices for a Vibrant Life Your Trusted..
+  Precision Care. Healthier Teams. Better Workplaces
 
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam magnam omnis natus accusantium quos. Reprehenderit incidunt expedita molestiae impedit at sequi dolorem iste sit culpa, optio voluptates fugiat vero consequatur?
 
