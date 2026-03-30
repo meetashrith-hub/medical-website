@@ -84,10 +84,10 @@ const Footer = () => {
               SKY Prism Eye Care
             </Link>
             <Link to="/" spy={true} smooth={true} duration={500}>
-              Email: info@skyprismeyecare.com
+              Email: customer.service@skyprismeyecare.in
             </Link>
             <Link to="/" spy={true} smooth={true} duration={500}>
-              +91 8080048488
+              +91 6366737255
             </Link>
           </nav>
         </div>

@@ -18,7 +18,7 @@ function App() {
      <Navbar></Navbar>
      <main>
       <div id='home'><Home></Home></div>
-      <div id='home2'><Home2></Home2></div>
+      {/* <div id='home2'><Home2></Home2></div> */}
       <div id='about'><About></About></div>
       <div id='services'><Services></Services></div>
       <div id='testimonials'><Testimonials></Testimonials></div>

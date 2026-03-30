@@ -27,21 +27,12 @@ const Navbar = () => {
     <div className=" fixed w-full z-10 text-white">
       <div>
         <div className="flex flex-row justify-between p-5 md:px-32 px-5 bg-backgroundColor shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px]">
-          <div className="flex flex-row items-center cursor-pointer">
-            <Link to="home" spy={true} smooth={true} duration={500}>
-                <img src="/skyprism_icon1.png" className="w-260 h-20 object-contain"/>
-            </Link>
-          </div>
-           <div className="flex flex-row items-center cursor-pointer">
+                   <div className="flex flex-row items-center cursor-pointer">
             <Link to="home" spy={true} smooth={true} duration={500}>
                 <img src="/skyprism_icon3.png" className="w-260 h-20 object-contain"/>
             </Link>
           </div>
-              <div className="flex flex-row items-center cursor-pointer">
-               <Link to="home" spy={true} smooth={true} duration={500}>
-              <h1 className="text-2xl font-semibold">SKY Prism</h1>
-            </Link>
-          </div>
+            
           <nav className="hidden lg:flex flex-row items-center text-lg font-medium gap-8">
             <Link
               to="home"

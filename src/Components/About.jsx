@@ -5,10 +5,9 @@ const About = () => {
   return (
     <div className=" min-h-screen flex flex-col lg:flex-row justify-between items-center lg:px-32 px-5 pt-24 lg:pt-16 gap-5">
       <div className=" w-full lg:w-3/4 space-y-4">
-        <h1 className=" text-4xl font-semibold text-center lg:text-start">About Us</h1>
-        <h2 className=" text-2xl  text-center lg:text-start">Vision & Eye Care</h2>
+        <h2 className=" text-2xl  text-center lg:text-start" color="blue">Vision & Eye Care :</h2>
         <p className=" text-justify lg:text-start">
-              Combatting digital strain with professional vision testing and Computer Vision Syndrome (CVS) assessments.
+              Professional vision testing and CVS assessments to combat digital strain.
 	      </p>
         <h2 className=" text-2xl  text-center lg:text-start">Dental Excellence:</h2>
         <p className=" text-justify lg:text-start">
@@ -18,7 +17,8 @@ const About = () => {
         <p className=" text-justify lg:text-start">
               Vital metric tracking including BP, BMI, and Blood Sugar to catch health risks early.
 	      </p>
-        <h1 className=" text-4xl font-semibold text-center lg:text-start">The SKY Prism Advantage</h1>
+        <h2 className=" text-2xl  text-center lg:text-start">     </h2>
+        <h1 className=" text-4xl font-semibold text-center lg:text-start"><br />The SKY Prism Advantage</h1>
         <h2 className=" text-2xl  text-center lg:text-start">Why Bangalore’s Best Choose Us</h2>
         <p className=" text-justify lg:text-start">
              	• Seamless Integration: We run high-efficiency camps that respect your billable hours and workflows.
